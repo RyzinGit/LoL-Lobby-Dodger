@@ -13,8 +13,6 @@ lobbyStatus = "NONE"
 enabledStatus = "DISABLED"
 dodge = False
 
-currentDir = os.getcwd()
-
 countdownAdjustmentMs = 50
 
 def terminate():
