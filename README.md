@@ -16,7 +16,6 @@ LoL-Lobby-Dodger is a Python application that helps you dodge League of Legends 
 - tkinter
 - threading
 - os
-- ctypes
 
 ## Usage
 
