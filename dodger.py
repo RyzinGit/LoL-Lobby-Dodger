@@ -1,5 +1,3 @@
-# UI = show phase, remanining time in ms, dodge button(maybe dodge ms threshold modifier)
-
 #Program must be enabled before entering the lobby
 
 import willump
